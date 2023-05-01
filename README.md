@@ -1,13 +1,13 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=C2E2E8&height=250&section=header&text=Jang%20Se%20%20Eun's%20Github&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD2D2&height=250&section=header&text=Son%20Da%20%20Hyun's%20Github&fontSize=60&animation=fadeIn)
 
 ### Welcome to my Github:star2:   
 I'm currently majoring in Computer Science at Dongduk Women's University. :mortar_board: <br/>
-How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br/> </br>
-![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true)
+How to reach me : Mail me sonda2356@gmail.com or sonda2356@naver.com :envelope:<br/> </br>
+![dahyun's github stats](https://github-readme-stats.vercel.app/api?username=sondahyun&show_icons=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondahyun&layout=compact)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1) -->
 
 
