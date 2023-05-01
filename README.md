@@ -9,7 +9,7 @@ How to reach me : Mail me sonda2356@gmail.com or sonda2356@naver.com :envelope:<
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondahyun&layout=compact)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1) -->
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sonda3775)](https://solved.ac/sonda3775)
 
 
 ### Tech Stack 🛠️
