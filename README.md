@@ -5,14 +5,12 @@
      <h3>Activity</h3>
   <ul>
     <li>
-      
     </li>
   </ul>
   <hr>
      <h3>Project</h3>
   <ul>
     <li>
-      
     </li>
   </ul>
   <hr>
