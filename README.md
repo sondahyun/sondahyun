@@ -5,27 +5,32 @@
      <h3>Activity</h3>
   <ul>
     <li>
-      동덕여자대학교 컴퓨터학과 (2020.03 ~)
+      
     </li>
   </ul>
   <hr>
      <h3>Project</h3>
   <ul>
     <li>
-      동덕여자대학교 컴퓨터학과 (2020.03 ~)
+      
     </li>
   </ul>
   <hr>
      <h3>Tech Stack</h3>
-  <ul>
-    <li>
-      동덕여자대학교 컴퓨터학과 (2020.03 ~)
-    </li>
-  </ul>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
+  
 </div>
   
 
-[![Dahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonda3775)](https://github.com/anuraghazra/github-readme-stats)
+[![Dahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondahyun)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonda3775)](https://solved.ac/sondahyun)
 
 <!--
