@@ -5,7 +5,7 @@
 사용자 경험과 운영 안정성을 함께 고민하는 백엔드 개발자입니다.
 
 Spring Boot 기반 서버 개발을 중심으로  
-실시간 협업, AI 서비스 연동, 블록체인 티켓팅 프로젝트를 경험했습니다.
+실시간 협업, AI 서비스 구현, 블록체인 티켓팅 프로젝트를 경험했습니다.
 
 <a href="https://app.notion.com/p/373da6b39b4f80e59e61f3056abb5bc1?source=copy_link">Portfolio</a>
   ·
@@ -116,8 +116,11 @@ Java Servlet/JSP, Oracle DB 기반 MVC 구조로 기능을 구현했습니다.
 반려동물 입양/임보, 펫스타그램, 커뮤니티 게시판 기능을 제공하는 웹 애플리케이션입니다.  
 Java Servlet/JSP, Oracle DB 기반으로 게시글, 댓글, 신청, 메시지 기능을 구현했습니다.
 
-## A Little More
+## Experience & Awards
 
-- 성능 개선은 p95 latency, payload size, connection hold time처럼 숫자로 확인하려고 합니다.
-- 실시간 기능은 happy path보다 재연결, 충돌, timeout, 실패 복구 흐름을 중요하게 봅니다.
-- 자세한 프로젝트 내용은 포트폴리오와 블로그에 정리하고 있습니다.
+- 동덕여자대학교 컴퓨터학과
+- 삼성 청년 SW·AI 아카데미(SSAFY) 14기
+- 한양대학교 OSDC 연구실 인턴
+- SSAFY 특화 프로젝트 우수상(2등), 공통 프로젝트 우수상(3등)
+- 제13회 교내 소프트웨어 경진대회 우수상
+- 정보처리기사, SQLD
