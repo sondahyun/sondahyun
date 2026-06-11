@@ -81,17 +81,17 @@ Spring Boot 기반 서버 개발을 중심으로
 
 ## Projects
 
-### EchoForest
+### [EchoForest](https://github.com/SSAFY14-D105/echoforest)
 
 말과 포즈가 게임 규칙에 반영되는 AI 감정 인식 기반 4인 협동 웹게임입니다.  
 FastAPI 추론 서버, STT 저주 파이프라인, LiveKit 화상 연결, MediaPipe 모션 인식을 맡았습니다.
 
-### CHEKET
+### [CHEKET](https://github.com/SSAFY14-D108/cheket)
 
 NFT 티켓 발행부터 구매, 양도, 리세일, QR 입장, 정산까지 연결한 블록체인 티켓팅 플랫폼입니다.  
 Solidity 컨트랙트, Web3j 백엔드, JWT/Redis 인증, Docker/Nginx/Jenkins 배포 흐름을 담당했습니다.
 
-### PLAY! Nemonic
+### [PLAY! Nemonic](https://github.com/SSAFY14-S208/play-nemonic)
 
 웹에서 네모닉의 출력, 점착, 활용 경험을 체험하는 인터랙티브 콘텐츠 플랫폼입니다.  
 Spring Boot, Redis, WebSocket, MinIO 기반 산출물 파이프라인과 성능 개선을 담당했습니다.
@@ -101,17 +101,17 @@ Spring Boot, Redis, WebSocket, MinIO 기반 산출물 파이프라인과 성능 
 OTT 계정 공유를 위한 팟 모집, 신청, 채팅, 신뢰도 관리를 제공하는 서비스입니다.  
 Spring Boot, Thymeleaf, MySQL, Querydsl, WebSocket 기반으로 구현했습니다.  
 
-### Color Me
+### [Color Me](https://github.com/sondahyun/color-me)
 
 색연필 행성에서 6개월 동안 활동을 선택하며 자신만의 색을 찾아가는 육성 시뮬레이션 게임입니다.  
 Solar2D와 Lua로 일정 관리, 미니게임, 방 꾸미기, 20가지 엔딩 흐름을 구현했습니다.
 
-### EduManager
+### [EduManager](https://github.com/EduManager-DBP/EduManager)
 
 강의, 스터디, 과제, 회원 관리를 다루는 교육 관리 웹 애플리케이션입니다.  
 Java Servlet/JSP, Oracle DB 기반 MVC 구조로 기능을 구현했습니다.
 
-### Petmunity
+### [Petmunity](https://github.com/sondahyun/Petmunity)
 
 반려동물 입양/임보, 펫스타그램, 커뮤니티 게시판 기능을 제공하는 웹 애플리케이션입니다.  
 Java Servlet/JSP, Oracle DB 기반으로 게시글, 댓글, 신청, 메시지 기능을 구현했습니다.
